@@ -6,7 +6,7 @@ The languages I primarily use is C++ and the common web langs (HTML, CSS and JS)
 
 I'm working on multiple things at once, 2 main projects and ye
 
-I'm interested in graphical design and animating even though to say im terrible at it would be an ovewhelming understatement.
+I'm interested in graphical design and animating even though to say im terrible at it would be an overwhelming understatement.
 
 i cannot be bothered to use proper markdown :(
 
