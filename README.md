@@ -1,13 +1,16 @@
 ### Imagine seeing my profile.
 
-###### So like im a British person that goes by the pronouns he/him and i have no grammar or punctutaion 😎
+###### So like im a British person that goes by the pronouns he/him and i have no grammar or punctutation 😎
 
-The languages I primarily use is C++ and the common web langs (HTML, CSS and JS) I used to think I had decent computer science knowledge until i hit reality. 
+The languages I primarily use is C++ and the common web langs (HTML, CSS and JS), have some expirience in React.js and Next.js. And I used to think I had decent computer science knowledge until i hit reality. 
 
-I'm working on multiple things at once, 2 main projects and ye
+I'm allegedly working on multiple things at once.
 
-I'm interested in graphical design and animating even though to say im terrible at it would be an overwhelming understatement.
+I'm interested in graphical design and animating even though to say Im terrible at it would be an understatement.
 
-i cannot be bothered to use proper markdown :(
+i cannot be bothered to use proper markdown 😎
 
 ~~and finnally I used to think Github was an ide~~
+
+
+best readme on github 100%
