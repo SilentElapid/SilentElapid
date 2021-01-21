@@ -1,6 +1,6 @@
 ### Imagine seeing my profile.
 
-###### So like im a British male that goes by the pronouns he/him and i have no grammar or punctutaion 😎
+###### So like im a British person that goes by the pronouns he/him and i have no grammar or punctutaion 😎
 
 The languages I primarily use is C++ and the common web langs (HTML, CSS and JS) I used to think I had decent computer science knowledge until i hit reality. 
 
