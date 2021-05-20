@@ -10,7 +10,7 @@ I'm interested in graphical design and animating even though to say Im terrible 
 
 i cannot be bothered to use proper markdown 😎
 
-~~and finnally I used to think Github was an ide~~
+~~and finally I used to think Github was an ide~~
 
 
 best readme on github 100%
